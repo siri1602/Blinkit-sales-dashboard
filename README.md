@@ -21,3 +21,5 @@ Dashboard Insights
 - Tier 3 outlets generated highest sales
 - Regular fat products contributed more revenue
 - Supermarket Type1 had highest sales performance
+
+![Blinkit dashboard.jpeg](Blinkit dashboard.jpeg)
