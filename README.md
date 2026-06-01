@@ -22,4 +22,4 @@ Dashboard Insights
 - Regular fat products contributed more revenue
 - Supermarket Type1 had highest sales performance
 
-![Blinkit dashboard.jpeg](Blinkit dashboard.jpeg)
+![Dashboard Screenshot](Blinkit%20dashboard.jpeg)
